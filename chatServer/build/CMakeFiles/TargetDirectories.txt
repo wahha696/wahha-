@@ -1,0 +1,3 @@
+/home/wahha/chatRoom/chatServer/build/CMakeFiles/ChatServer.dir
+/home/wahha/chatRoom/chatServer/build/CMakeFiles/edit_cache.dir
+/home/wahha/chatRoom/chatServer/build/CMakeFiles/rebuild_cache.dir

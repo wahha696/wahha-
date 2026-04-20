@@ -1,0 +1,3 @@
+/home/wahha/chatRoom/chatClient/build/CMakeFiles/ChatClient.dir
+/home/wahha/chatRoom/chatClient/build/CMakeFiles/edit_cache.dir
+/home/wahha/chatRoom/chatClient/build/CMakeFiles/rebuild_cache.dir
