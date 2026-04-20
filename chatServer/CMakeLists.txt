@@ -8,8 +8,7 @@ src/main.cpp
 src/chatServer.cpp
 ../ThreadPool/whThreadPool.cpp)
 # 添加头文件路径
-target_include_directories(${PROJECT_NAME}
-PRIVATE
+target_include_directories(${PROJECT_NAME} PUBLIC
 ${PROJECT_SOURCE_DIR}/header
 ${PROJECT_SOURCE_DIR}/../ThreadPool)
 # 添加线程支持库
